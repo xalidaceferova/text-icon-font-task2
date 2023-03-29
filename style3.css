@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    text-align: center;
+    
+}
+.nav__ul{
+    list-style-type: none;
+}
+.nav__list{
+    display: inline-block;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    color: purple;
+    text-align: center;
+}
+.header{
+    color: gold;
+}
+.header2{
+    color: goldenrod;
+}
+p{
+    line-height: 1.6;
+}

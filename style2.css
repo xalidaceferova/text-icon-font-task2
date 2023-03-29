@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    text-align: center;
+    
+}
+.nav__ul{
+    list-style-type: none;
+}
+.nav__list{
+    display: inline-block;
+    margin: 5px;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+
+
+h2{
+    text-align: center;
+    color: purple;
+}
+.gitar{
+    width: 200px;
+    height: 200px;
+    
+    background-image: url("https://id.yamaha.com/id/files/Image-Index_FS400_1080x1080_550b4f441dc8fa9aae3021da9d33a193.jpg?impolicy=resize&imwid=735&imhei=735?imbypass=on");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.keman{
+    width: 200px;
+    height: 200px;
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Old_violin.jpg/250px-Old_violin.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.davul{
+    width: 200px;
+    height: 200px;
+    background-image: url("https://img-zuhalmuzik.mncdn.com/mnresize/400/400/images/product/1118271.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}
+.piano{
+    width: 200px;
+    height: 200px;
+    background-image: url("https://www.yamaha.com/yamahavgn/PIM/Images/Image-Index_cfx_02_2000x2000_07b5394c2d5fc0ed037d717596d9e072.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+}

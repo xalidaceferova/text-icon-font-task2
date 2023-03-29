@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+h1{
+    text-align: center;
+    color: red;
+}
+ul{
+    text-align: center;
+    
+}
+.nav__ul{
+    list-style-type: none;
+}
+.nav__list{
+    display: inline-block;
+    margin: 5px;
+}
+h2{
+    text-align: center;
+    color: purple;
+}
+.muzik__aletleri{
+    text-align: center;
+
+}
+.list__header{
+    color: rgb(206, 144, 30);
+    text-align: center;
+}
